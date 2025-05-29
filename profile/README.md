@@ -51,6 +51,6 @@ You can open an issue in any repository or contact us directly.
 
 ## 💡 Create, share, and evolve with Dev2Forge!
 
-![Dev2Forge Banner](https://github.com/user-attachments/assets/7ca14c4c-cc36-471c-9443-318cff03948c)
+![Dev2Forge Banner](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@refs/heads/main/others/metatag-dev2forge1.jpeg)
 
 ---
