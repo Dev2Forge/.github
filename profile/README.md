@@ -2,6 +2,10 @@
 
 ---
 
+> New Projects is coming soon
+
+---
+
 ## 📦 Featured Projects
 
 | Project      | Installation Command         | PyPI Downloads                                                                                      | SourceForge Downloads                                                                                              |
