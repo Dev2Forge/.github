@@ -1,7 +1,5 @@
 # 🚀 Dev2Forge
 
-Welcome to **Dev2Forge**! 👋
-
 ---
 
 ## 📦 Featured Projects
