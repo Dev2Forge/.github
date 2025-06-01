@@ -53,4 +53,4 @@ You can open an issue in any repository or contact us directly.
 
 ## 💡 Create, share, and evolve with Dev2Forge!
 
-![thumbanil](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/thumbanil-dev2forge.png)
+![thumbanil](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/thumbanil-dev2forge1.webp)
