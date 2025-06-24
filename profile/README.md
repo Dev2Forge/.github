@@ -2,6 +2,10 @@
 
 ---
 
+<h3>New Projects is coming soon</h3>
+
+---
+
 <div align="center" style="display: flex; align-items: center; justify-content: center; margin: 10px 0; gap: 10px; max-height: 48px; height: 48px;">
   <a href="https://github.com/sponsors/dev2forge" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-%F0%9F%92%96%20Dev2Forge-blue?style=for-the-badge&logo=github" alt="Sponsor Us on GitHub">
@@ -10,11 +14,6 @@
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Sponsor Us on Ko-Fi">
 </a>
 </div>
-
----
-
-<h3>New Projects is coming soon</h3>
-<div id="new-project"></div>
 
 ---
 
